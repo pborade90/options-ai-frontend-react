@@ -1,11 +1,12 @@
 {
     "name": "OptionAI",
     "short_name": "OptionAI",
-    "start_url": "/ ",
+    "start_url": "/",
     "display": "standalone",
     "background_color": "#eef4ed",
     "theme_color": "#132a13",
     "orientation": "portrait-primary",
+    "scope": "/",
     "icons": [
       {
         "src": "/src/assets/icons/favicon-16x16.png",
